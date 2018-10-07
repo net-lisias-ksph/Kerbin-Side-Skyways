@@ -1,5 +1,8 @@
 # Kerbin-Side Skyways :: Change Log
 
+* 2018-0807: 1.4.5 (GER_Space) for KSP 1.4.5
+	+ Update for 1.4.5
+	+ Changes the reference system to m aboce surface.
 * 2017-0603: 1.3.0 (GER_Space) for KSP 1.3.0
 	+ updated facility configs for Kerbal Konstructs 1.0
 * 2017-0529: 1.2.1 (GER_Space) for KSP 1.3.0
