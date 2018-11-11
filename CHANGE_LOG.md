@@ -1,5 +1,7 @@
 # Kerbin-Side Skyways :: Change Log
 
+* 2018-1111: 1.4.5.25 (GER_Space) for KSP 1.5.1
+	+ new Version File
 * 2018-1106: 1.4.5.24 (GER_Space) for KSP 1.5.1
 	+ Updates for new config format of Kerbal-Konstructs
 * 2018-0807: 1.4.5 (GER_Space) for KSP 1.4.5
